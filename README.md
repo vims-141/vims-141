@@ -1,3 +1,8 @@
+<marquee><h1>👋 Hi, I'm Vimal K | CyberSecurity Enthusiast | AI/ML Explorer 🚀</h1></marquee>
+<img src="monolith wallpaper.jpg" width="100%" alt="Profile Banner">
+
+
+
 - 👋 Hi, I’m @vims-141
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
